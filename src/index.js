@@ -1,4 +1,5 @@
-import { MReact, MReactDom } from './api'
+import MReact from './react'
+import MReactDom from './react-dom'
 
 // function tick() {
 //     const element = (
